@@ -3,7 +3,7 @@ import subprocess
 import os
 import time
 
-host = '127.0.0.1'
+host = input("Enter server ip: ")
 port = 4444
 
 while True:
